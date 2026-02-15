@@ -159,26 +159,26 @@ function App() {
 
   return (
     <div className="page">
-      <header className="hero" id="top">
+      <header className="hero intro" id="top">
         <div className="hero-grid">
           <div className="hero-copy">
-            <p className="eyebrow">Full Stack and Web3 Developer</p>
-            <h1 className="hero-title">
+            <p className="eyebrow intro-item">Full Stack and Web3 Developer</p>
+            <h1 className="hero-title intro-item">
               Hi, I am Rahul
               <span> Bansal</span>
             </h1>
-            <p className="hero-subline">
+            <p className="hero-subline intro-item">
               <span>Coding</span>
               <span>Building</span>
               <span>Learning</span>
             </p>
-            <p className="hero-summary">
+            <p className="hero-summary intro-item">
               I am a Computer Science student and full-stack developer who
               builds scalable web products and explores blockchain. I enjoy
               solving complex problems, contributing to open source, and growing
               through real-world projects.
             </p>
-            <div className="hero-highlights">
+            <div className="hero-highlights intro-item">
               <div>
                 <p className="meta-label">Based in</p>
                 <p className="meta-value">Faridabad, Haryana</p>
@@ -192,7 +192,7 @@ function App() {
                 <p className="meta-value">MERN, Web3, Rust</p>
               </div>
             </div>
-            <div className="hero-strip">
+            <div className="hero-strip intro-item">
               <span>Currently</span>
               <div className="strip-logos">
                 <span>RPSRUDROM</span>
