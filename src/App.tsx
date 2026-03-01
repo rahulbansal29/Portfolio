@@ -123,6 +123,16 @@ function App() {
       github: 'https://github.com/rahulbansal29/RealEstate',
       cover: '/RealEstate.png',
     },
+    {
+      title: 'Multisig DAO',
+      label: 'Web3 Governance',
+      status: 'In progress',
+      description:
+        'Multi-signature DAO treasury and governance app enabling secure proposals, approvals, and on-chain execution.',
+      stack: ['Solidity', 'React', 'DAO'],
+      github: 'https://github.com/rahulbansal29/Multisig-DAO',
+      cover: '/Multisig%20DAO.png',
+    },
   ]
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
